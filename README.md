@@ -9,5 +9,5 @@ Build on the following components and concepts:
 - REST client for real time data
 - MySQL
 - Generic repository pattern
-- Adherence to clean code concepts
+
 
